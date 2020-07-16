@@ -1,0 +1,5 @@
+Id,Kind,fname
+1,R001,roadedge.csv
+2,P001,whiteline.csv
+3,P002,stopline.csv
+4,P003,zebrazone.csv
